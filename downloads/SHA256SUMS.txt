@@ -1,0 +1,4 @@
+5086a2191fe1c446108885fa17324ef17bedf1ba25449dcf19d32c5f219c68a4   ClassroomQuest-Portable.exe
+f7baa9d675ea158e67e876a3af1c32b993b2fb4fa43502c585053c29bc127b8f   ClassroomQuest-Setup.exe
+0541d79982040f7654de9a752da1aa8765c3ea2b0da26a605a9c385271885647   ClassroomQuest-v3-Source.zip
+790bd4801c368ffe44f584ac7f42f02af66640651e80cdadfaeb2e40e33fbae5   QUICK_START.txt

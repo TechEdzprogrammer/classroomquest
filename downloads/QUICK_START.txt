@@ -1,0 +1,56 @@
+CLASSROOM QUEST OFFLINE v3.0 — QUICK START
+TechEdz • Windows 10 / 11, 64-bit • For elementary and secondary teachers
+
+INSTALL
+1. Close any running Classroom Quest from its teacher dashboard.
+2. Run ClassroomQuest-Setup.exe once (or use the Portable exe).
+3. Double-click Classroom Quest Offline desktop shortcut.
+4. The Teacher Dashboard opens in the default browser. No Node.js or .bat file is needed.
+
+CONNECT TWO PHONES (NO INTERNET REQUIRED)
+1. Click Instructions from the top menu.
+2. Pick a Phone Hotspot, Laptop Hotspot, or Existing Wi-Fi/router.
+3. Connect both phones and the laptop to the same local Wi-Fi network.
+4. Choose the correct laptop IP address from the Instructions page.
+5. Both phones scan the QR code and open the game in a browser.
+6. Click Check phone connections. Ask the two teams to select Team A and Team B.
+
+PREPARE YOUR SUBJECTS AND QUESTIONS
+1. Go to Question bank.
+2. Click 'Manage learning areas' (collapsed by default) to add, rename, or remove subjects.
+   - Rename retains questions.
+   - Remove with questions asks for confirmation and stores a local backup.
+   - You can add elementary and secondary subject names such as ICT, Biology or TLE.
+3. Pick a learning area, then Add question, Edit or Delete. Every question has four choices.
+4. Use Backup/Restore to save or transfer questions; backups also preserve subject names.
+
+START A TEAM BATTLE
+1. On Dashboard, select learning area, target points, and team names; Create match.
+2. Once both phones join, click Begin questions.
+3. Each correct answer earns EXACTLY ONE POINT. No points for a wrong answer.
+4. If both teams reach the target together, tie-breaker rounds continue until one leads.
+5. The teacher can advance/close a question, and finish/end a match.
+
+SOUND AND MUSIC (OPTIONAL)
+- Expand 'Sound & background music' under the live game on the teacher Dashboard.
+- Turn on 'Chill background music' to play a soft local music loop while questions are active.
+- Turn on/off 'Answer sound effects'. Pupil phones can independently mute sounds.
+- Audio may need a tap/click to start because of phone/browser autoplay rules.
+- Music and sounds come WITH the app and require no internet. Adjust device volume as needed.
+
+HELP
+- The QR code does NOT connect a phone to Wi-Fi; connect to hotspot/Wi-Fi first.
+- Allow the app through Windows Firewall on PRIVATE networks only.
+- Some phones or laptops cannot create a local hotspot, or isolate nearby devices.
+- Use another compatible hotspot or an existing router if needed.
+- To exit the app, click Exit on teacher dashboard. Do not simply close the tab.
+
+DATA & UPGRADES
+Questions, custom subjects, and game data are kept in:
+  %LOCALAPPDATA%\TechEdz\Classroom Quest Offline\data
+Version 3 migrates v2.x's existing question bank. Back up before upgrading.
+The Windows installer is unsigned; confirm the file came from a source you trust.
+
+OPEN SOURCE
+Source code is MIT licensed. See README.md, LICENSE, SECURITY.md, CONTRIBUTING.md.
+The embedded music is original programmatically synthesized audio under the MIT License.
